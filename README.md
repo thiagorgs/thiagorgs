@@ -35,8 +35,8 @@ I'm a Physics PhD candidate researching quantum information and computation, wit
 
 ## Education
 
-- **PhD in Physics** (in progress) — Quantum Information and Computation
-- **MSc in Physics** — Quantum Information and Computation
+- **PhD in Physics** (in progress) — Physics - Quantum Information and Quantum Computing
+- **MSc in Physics** — Physics
 
 ## Connect
 
