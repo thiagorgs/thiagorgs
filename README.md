@@ -1,4 +1,4 @@
-# Hi, I'm Thiago Girao
+# Hi, I'm Thiago Girão
 
 **Quantum Physicist | PhD Student | Quantum Computing Researcher**
 
