@@ -2,7 +2,7 @@
 
 **Quantum Physicist | PhD Student | Quantum Computing Researcher**
 
-I'm a Physics PhD candidate researching quantum information and computation, with a focus on variational quantum algorithms applied to the dynamics of many-body quantum systems. My work bridges theoretical physics and practical quantum software development.
+I'm a Physics PhD candidate researching quantum information and quantum computing, with a focus on variational quantum algorithms applied to the dynamics of many-body quantum systems. My work bridges theoretical physics and practical quantum software development.
 
 ## Research Interests
 
