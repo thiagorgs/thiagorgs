@@ -1,44 +1,25 @@
-# Hi, I'm Thiago Girão
+# Hi, I'm Thiago Rocha
 
-**Quantum Physicist | PhD Candidate | Quantum Computing Researcher**
+I'm a PhD candidate in Physics working on quantum computing, quantum dynamics, and computational modeling of many-body systems.
 
-I'm a Physics PhD candidate researching quantum information and quantum computing, with a focus on variational quantum algorithms applied to the dynamics of many-body quantum systems. My work bridges theoretical physics and practical quantum software development.
+My research focuses on variational quantum algorithms, spin-chain dynamics, many-body localization, and scientific computing with Python.
 
 ## Research Interests
 
-- Variational quantum algorithms (VQE, QAOA, QAS)
-- Many-body localization and quantum dynamics
-- Quantum simulation of condensed matter systems
-- Quantum machine learning and quantum neural networks
-- Generative AI applied to scientific computing
+- Quantum computing and quantum simulation
+- Variational quantum algorithms
+- Quantum many-body dynamics
+- Many-body localization
+- Spin-chain models
+- AI model evaluation for scientific reasoning
 
-## Tech Stack
+## Tools
 
-**Quantum Computing:** Qiskit, QuTiP, PennyLane, Qiskit Machine Learning
-
-**Scientific Python:** NumPy, SciPy, Matplotlib, NetworkX
-
-**Machine Learning & AI:** PyTorch, Hugging Face Transformers, scikit-learn
-
-**Tools & Infrastructure:** Git, Jupyter, SLURM/HPC, Linux
+Python, NumPy, SciPy, Matplotlib, Qiskit, QuTiP, QuSpin, OQuPy, TeNPy, Git, Linux, Mathematica.
 
 ## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [Quantum Assisted Simulator](https://github.com/thiagorgs/quantum-assisted-simulator) | QAS algorithm for studying many-body localization in disordered Ising chains using Qiskit and QuTiP |
-| [QAOA for MaxCut](https://github.com/thiagorgs/qaoa-maxcut) | Quantum Approximate Optimization Algorithm applied to combinatorial optimization |
-| [Exact Diagonalization](https://github.com/thiagorgs/exact-diagonalization) | Full Hilbert-space exact diagonalization for disordered J1-J2 XY spin chains |
-| [Variational Quantum Algorithms](https://github.com/thiagorgs/variational-quantum-algorithms) | Collection of VQE, QAOA, and quantum dynamics implementations with IBM hardware |
-| [Quantum Neural Network](https://github.com/thiagorgs/qnn-classifier) | Parameterized quantum circuit classifier built from scratch with Qiskit |
-| [Quantum Physics Text Generator](https://github.com/thiagorgs/quantum-text-generator) | Fine-tuning GPT-2 on quantum physics text with PyTorch and Transformers |
-
-## Education
-
-- **PhD in Physics** (in progress) — Physics - Quantum Information and Quantum Computing
-- **MSc in Physics** — Physics
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagorgs)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thiagogirao16@gmail.com)
+- Quantum Assisted Simulation for spin-chain dynamics
+- Many-body localization in disordered quantum systems
+- QAOA for MaxCut
+- Physics LLM evaluation benchmark
