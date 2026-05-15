@@ -23,3 +23,5 @@ Python, NumPy, SciPy, Matplotlib, Qiskit, QuTiP, QuSpin, OQuPy, TeNPy, Git, Linu
 - Many-body localization in disordered quantum systems
 - QAOA for MaxCut
 - Physics LLM evaluation benchmark
+- Many-body spin-chain dynamics
+- Open quantum systems dynamics
